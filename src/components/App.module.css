@@ -1,0 +1,11 @@
+.container {
+  height: 100%;
+  color: #010101;
+}
+
+.noMoreResults {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #666;
+}
